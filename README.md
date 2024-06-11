@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **phamhoangphuc1824@gmail.com**
 
-- ⚡ Fun fact **I'm a big fan of Rap music and i can play guitar**
+- ⚡ Fun fact **I'm a big fan of Rap music and I can play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
