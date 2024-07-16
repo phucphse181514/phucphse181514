@@ -12,8 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![icons8-zalo-48](https://github.com/user-attachments/assets/2797888d-92ae-488f-b6d6-0a683b6df6ae)
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">0703098260</a>
+📞 0703098260
 </p>
 
 
