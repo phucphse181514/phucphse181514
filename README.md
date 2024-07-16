@@ -7,11 +7,12 @@
 
 - 📫 How to reach me **phucphse181514@fpt.edu.vn.com**
 
+
 - ⚡ Fun fact **I'm a big fan of Rap music and I can play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>0703098260</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="![icons8-zalo-48](https://github.com/user-attachments/assets/de616f5f-8b4a-4e15-885a-ad5825236925)" alt="zalo" width="40" height="40"/>0703098260</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
