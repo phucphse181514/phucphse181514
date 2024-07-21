@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham Hoang Phuc</h1>
 <h3 align="center">A backend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **Mahika Jewelry Sales System At The Store**
+- 🔭 I’m currently working on **V.Gen Network Website Project**
 
 - 🌱 I’m currently learning **Spring Framework, JavaScript**
 
