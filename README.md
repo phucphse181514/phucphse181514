@@ -47,7 +47,7 @@ I am a **Software Engineer** specializing in **Fullstack Development**. Currentl
 ### 📬 Connect with me
 
 - 📧 **Email:** [phamhoangphuc1824@gmail.com](mailto:phamhoangphuc1824@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn Link](https://www.linkedin.com/in/phuc-pham-hoang-128969283/) (Update your link here)
+- 💼 **LinkedIn:** [LinkedIn Link](https://www.linkedin.com/in/phuc-pham-hoang-128969283/) 
 - 📞 **Phone:** +84 703098260
 
 <div align="center">
