@@ -1,9 +1,5 @@
 # 🚀 Hi there, I'm Pham Hoang Phuc! 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=phucphse181514&label=Profile%20views&color=0e75b6&style=flat" alt="phucphse181514" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
