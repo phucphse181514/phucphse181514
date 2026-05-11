@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Pham Hoang Phuc! 🇻ietnam
+# 🚀 Hi there, I'm Pham Hoang Phuc! 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=phucphse181514&label=Profile%20views&color=0e75b6&style=flat" alt="phucphse181514" />
@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** specializing in **Fullstack Development** and **Distributed Systems**. Currently based in Da Nang, I have experience working in international remote environments (Singapore) and enterprise-level digital transformations.
+I am a **Software Engineer** specializing in **Fullstack Development**. Currently based in Da Nang, I have experience working in international remote environments (Singapore) and enterprise-level digital transformations.
 
 - 🔭 **Current Focus:** Building scalable architectures for construction-tech and gamification platforms.
 - ⚡ **Key Expertise:** High-concurrency systems, Cloud-native applications (AWS), and pixel-perfect mobile experiences.
@@ -56,9 +56,8 @@ I am a **Software Engineer** specializing in **Fullstack Development** and **Dis
 ### 📬 Connect with me
 
 - 📧 **Email:** [phamhoangphuc1824@gmail.com](mailto:phamhoangphuc1824@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/phucph](https://linkedin.com/in/phucph) (Update your link here)
+- 💼 **LinkedIn:** [LinkedIn Link](https://www.linkedin.com/in/phuc-pham-hoang-128969283/) (Update your link here)
 - 📞 **Phone:** +84 703098260
-- 🌐 **Portfolio:** [phucloicement.com](https://phucloicement.com)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/phucphse181514/phucphse181514/output/github-contribution-grid-snake.svg" alt="Snake animation" />
