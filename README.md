@@ -44,15 +44,6 @@ I am a **Software Engineer** specializing in **Fullstack Development**. Currentl
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phucphse181514&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucphse181514&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📬 Connect with me
 
 - 📧 **Email:** [phamhoangphuc1824@gmail.com](mailto:phamhoangphuc1824@gmail.com)
