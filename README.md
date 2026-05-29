@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** specializing in **Fullstack Development**. Currently based in Da Nang, I have experience working in international remote environments (Singapore) and enterprise-level digital transformations.
+I am a **Software Engineer** specializing in **Fullstack Development**. I have experience working in international remote environments (Singapore) and enterprise-level digital transformations.
 
 - 🔭 **Current Focus:** Building scalable architectures for construction-tech and gamification platforms.
 - ⚡ **Key Expertise:** High-concurrency systems, Cloud-native applications (AWS), and pixel-perfect mobile experiences.
